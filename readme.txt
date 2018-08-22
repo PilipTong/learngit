@@ -1,3 +1,3 @@
 hello world.
 Creating a new branch is quick AND simple.
-lalala
+This is fast forward
